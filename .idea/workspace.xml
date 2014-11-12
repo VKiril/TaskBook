@@ -32,12 +32,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="5.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="5.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/proc/5.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="12" selection-start="592" selection-end="592" vertical-scroll-proportion="0.47486034" vertical-offset="0" max-vertical-offset="537">
+            <state line="15" column="12" selection-start="592" selection-end="592" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="391">
               <folding>
                 <element signature="e#7#462#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="6.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/proc/6.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="29" selection-start="577" selection-end="577" vertical-scroll-proportion="0.53817505" vertical-offset="0" max-vertical-offset="537">
+              <folding>
+                <element signature="e#6#378#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -54,6 +65,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/proc/5.php" />
+        <option value="$PROJECT_DIR$/proc/6.php" />
       </list>
     </option>
   </component>
@@ -195,9 +207,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/proc/5.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="12" selection-start="592" selection-end="592" vertical-scroll-proportion="0.47486034" vertical-offset="0" max-vertical-offset="537">
+        <state line="15" column="12" selection-start="592" selection-end="592" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="391">
           <folding>
             <element signature="e#7#462#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proc/6.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="29" selection-start="577" selection-end="577" vertical-scroll-proportion="0.53817505" vertical-offset="0" max-vertical-offset="537">
+          <folding>
+            <element signature="e#6#378#0" expanded="true" />
           </folding>
         </state>
       </provider>
