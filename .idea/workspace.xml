@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b98505b-a5ae-43f7-a5d4-5f00b145048e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/20.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/21.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TaskBook.iws" />
@@ -26,15 +26,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="04.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/proc/04.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="518" selection-end="518" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="357">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="12.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/proc/12.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -117,11 +108,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="20.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/proc/20.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="49" selection-start="518" selection-end="518" vertical-scroll-proportion="0.5964912" vertical-offset="0" max-vertical-offset="342">
+            <state line="12" column="49" selection-start="518" selection-end="518" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="306">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="21.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/proc/21.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="47" selection-start="586" selection-end="586" vertical-scroll-proportion="0.6331471" vertical-offset="0" max-vertical-offset="537">
+              <folding>
+                <element signature="e#6#339#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -144,7 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/proc/5.php" />
         <option value="$PROJECT_DIR$/proc/6.php" />
         <option value="$PROJECT_DIR$/proc/7.php" />
         <option value="$PROJECT_DIR$/proc/8.php" />
@@ -160,6 +161,7 @@
         <option value="$PROJECT_DIR$/proc/18.php" />
         <option value="$PROJECT_DIR$/proc/19.php" />
         <option value="$PROJECT_DIR$/proc/20.php" />
+        <option value="$PROJECT_DIR$/proc/21.php" />
       </list>
     </option>
   </component>
@@ -263,7 +265,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33106962" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33106962" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -314,13 +316,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/proc/07.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="35" selection-start="389" selection-end="389" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="340">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/proc/08.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="0" selection-start="490" selection-end="669" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="442">
@@ -431,8 +426,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/proc/20.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="49" selection-start="518" selection-end="518" vertical-scroll-proportion="0.5964912" vertical-offset="0" max-vertical-offset="342">
+        <state line="12" column="49" selection-start="518" selection-end="518" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="306">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proc/21.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="47" selection-start="586" selection-end="586" vertical-scroll-proportion="0.6331471" vertical-offset="0" max-vertical-offset="537">
+          <folding>
+            <element signature="e#6#339#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
