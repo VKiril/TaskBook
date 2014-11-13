@@ -7,7 +7,7 @@
  * from degrees into radians
  */
 
-const degree = 0.0174532925;
+const degree  = 0.0174532925;
 
 function DegToRad($D){
     return ($D * degree);
