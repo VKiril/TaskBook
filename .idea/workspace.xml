@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b98505b-a5ae-43f7-a5d4-5f00b145048e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proc/29.php" afterPath="$PROJECT_DIR$/proc/29.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proc/30.php" afterPath="$PROJECT_DIR$/proc/30.php" />
     </list>
     <ignored path="TaskBook.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,17 +43,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="25.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/proc/25.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="261" selection-end="889" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="544">
-              <folding>
-                <element signature="e#6#259#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="26.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/proc/26.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -85,12 +74,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="29.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="29.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/proc/29.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="10" selection-start="575" selection-end="575" vertical-scroll-proportion="0.47486034" vertical-offset="0" max-vertical-offset="537">
+            <state line="15" column="10" selection-start="575" selection-end="575" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="357">
               <folding>
                 <element signature="e#6#243#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="30.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/proc/30.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="25" selection-start="825" selection-end="825" vertical-scroll-proportion="0.7914339" vertical-offset="0" max-vertical-offset="537">
+              <folding>
+                <element signature="e#6#406#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -141,7 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/proc/14.php" />
         <option value="$PROJECT_DIR$/proc/15.php" />
         <option value="$PROJECT_DIR$/proc/16.php" />
         <option value="$PROJECT_DIR$/proc/17.php" />
@@ -157,6 +156,7 @@
         <option value="$PROJECT_DIR$/proc/27.php" />
         <option value="$PROJECT_DIR$/proc/28.php" />
         <option value="$PROJECT_DIR$/proc/29.php" />
+        <option value="$PROJECT_DIR$/proc/30.php" />
       </list>
     </option>
   </component>
@@ -316,13 +316,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proc/30.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="563">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/proc/23.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="24" selection-start="742" selection-end="742" vertical-scroll-proportion="-18.307692" vertical-offset="0" max-vertical-offset="578">
@@ -412,9 +405,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/proc/29.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="10" selection-start="575" selection-end="575" vertical-scroll-proportion="0.47486034" vertical-offset="0" max-vertical-offset="537">
+        <state line="15" column="10" selection-start="575" selection-end="575" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="357">
           <folding>
             <element signature="e#6#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proc/30.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="25" selection-start="825" selection-end="825" vertical-scroll-proportion="0.7914339" vertical-offset="0" max-vertical-offset="537">
+          <folding>
+            <element signature="e#6#406#0" expanded="true" />
           </folding>
         </state>
       </provider>
