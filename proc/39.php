@@ -31,3 +31,5 @@ $M = 2 ;
 echo 'the power AN is '.(Power2($A , $K)).' when A is '.$A.' and N is '.$K.'<br/>';
 echo 'the power AN is '.(Power2($A , $L)).' when A is '.$A.' and N is '.$L.'<br/>';
 echo 'the power AN is '.(Power2($A , $M)).' when A is '.$A.' and N is '.$M.'<br/>';
+
+/*    */
