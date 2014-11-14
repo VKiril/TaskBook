@@ -33,3 +33,13 @@ function Ln1($x, $ε){
 
     return $ln ;
 }
+
+$x1 = 5 ; $ε1 = 0.1 ;
+/*$x2 = 4 ; $ε2 = 0.01 ;
+$x3 = 6 ; $ε3 = 0.001 ;
+$x4 = 9 ; $ε4 = 0.0001 ;*/
+
+echo 'an approximate value of the function ln(1 + x) when x is '.$x1.' and ε is '.$ε1.' ----- '.Ln1($x1 , $ε1)."<br/>";
+//echo 'an approximate value of the function ln(1 + x) when x is '.$x2.' and ε is '.$ε2.' ----- '.Ln1($x2 , $ε2)."<br/>";
+//echo 'an approximate value of the function ln(1 + x) when x is '.$x3.' and ε is '.$ε3.' ----- '.Ln1($x3 , $ε3)."<br/>";
+//echo 'an approximate value of the function ln(1 + x) when x is '.$x4.' and ε is '.$ε4.' ----- '.Ln1($x4 , $ε4)."<br/>";
