@@ -13,20 +13,15 @@ function Ln1($x, $ε){
 
         return 'ε is negative number ' ;
     }
-    $factorial_1 = 1 ;
-    $factorial_2 = 1 ;
+    $a1=$a2=0;
     $n_1 = 1 ;
     $n_2 = $n_1 + 1 ;
 
     $ln = $x;
-    while($factorial_2 > $ε || $factorial_1 > $ε){
-        for( $i = $n_1 ; $i > 0 ; $i -- ){
-            $factorial_1 = $factorial_1* $i;
-        }
-        for( $i = $n_2 ; $i > 0 ; $i -- ){
-            $factorial_2 = $factorial_2* $i;
-        }
-        $ln = (($ln + ((pow($x,$n_2)) / $n_1)) - ((pow($x,$n_1)) / $n_2));
+    while($a2 > $ε || $a1 > $ε){
+        $a1 = (pow($x,$n_1) / $n_2);
+        $a2 = $ln + ((pow($x,$n_2)) / $n_1);
+        $ln =$a2 - $a1;
         $n_1 ++ ;
         $n_2 = $n_1 + 1 ;
     }
