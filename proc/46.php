@@ -22,12 +22,12 @@ function GCD2($A, $B){
         $max = $B;
     }
     if($max % $min == 0 ){
-        return $result = array('divisor' =>$min , 'status' => 'have divisors(s)');
+        return $result = array('divisor' =>$min , 'status' => 'have divisors');
     } else {
         for ($i = 2 ; $i < $min ; $i ++){
             if($min % $i == 0 && $max % $i == 0){
                 $temp = $i ;
-                $result = array('divisor' => $i , 'status' => 'have divisor(s)' );
+                $result = array('divisor' => $i , 'status' => 'have divisor' );
 
 
                 /*while($temp <= $min){
@@ -39,7 +39,7 @@ function GCD2($A, $B){
 
 
             } else {
-                if ($result['status'] != 'have divisor(s)' )
+                if ($result['status'] != 'have divisor' )
                 $result = array('divisor' => 'null' , 'status' => 'don\'t have divisors');
             }
         }
