@@ -9,6 +9,10 @@
  */
 
 function Sin1($x, $ε){
+    if($ε <= 0){
+
+        return 'ε is negative number ' ;
+    }
     //sin()
     $factorial_1 = 1 ;
     $factorial_2 = 1 ;
@@ -23,7 +27,9 @@ function Sin1($x, $ε){
         for( $i = $n_2 ; $i > 0 ; $i -- ){
             $factorial_2 = $factorial_2* $i;
         }
-        $sin = $sin + $x / $factorial_2 - $x / $factorial_1;
+        $sin = (($sin + ((pow($x,$n_2)) / $factorial_2)) - ((pow($x,$n_1)) / $factorial_1));
+        $n_1 += 2 ;
+        $n_2 = $n_1 + 2 ;
     }
 
     return $sin ;
