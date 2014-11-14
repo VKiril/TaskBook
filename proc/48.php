@@ -1,3 +1,6 @@
+<head>
+    <title>48</title>
+</head>
 <?php
 /**
  * Taking into account that the least common multiple of two positive
@@ -26,3 +29,4 @@ function LCM2($A, $B){
 
 echo('the least common multiple of 32 and 34 is :'.(LCM2(32,34)).'<br/>');
 
+?>
