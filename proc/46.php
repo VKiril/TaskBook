@@ -13,7 +13,7 @@
  */
 
 function GCD2($A, $B){
-    $result = array('divisor' => '' , 'status' => '');
+    $result = array('divisor' => 'null' , 'status' => 'null');
     if($A > $B){
         $min = $B;
         $max = $A;
@@ -40,7 +40,7 @@ function GCD2($A, $B){
 
             } else {
                 if ($result['status'] != 'have divisor(s)' )
-                $result = array('divisor' => 'none' , 'status' => 'don\'t have divisors');
+                $result = array('divisor' => 'null' , 'status' => 'don\'t have divisors');
             }
         }
     }
