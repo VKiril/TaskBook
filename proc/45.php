@@ -1,3 +1,8 @@
+<head>
+    <title>45</title>
+</head>
+
+
 <?php
 /**
  * Write a real-valued function Power4(x, a, ε) (x, a, ε are real numbers, |x| < 1, a, ε > 0)
