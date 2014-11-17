@@ -1,11 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/proc/51.php" description="&#10;&lt;head&gt;&#10;    &lt;title&gt;51&lt;/title&gt;&#10;&lt;/head&gt;" line="0" />
+    <bookmark url="file://$PROJECT_DIR$/ProcPHP/51.php" description="&#10;&lt;head&gt;&#10;    &lt;title&gt;51&lt;/title&gt;&#10;&lt;/head&gt;" line="0" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b98505b-a5ae-43f7-a5d4-5f00b145048e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/func/3.php" afterPath="$PROJECT_DIR$/func/3.php" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\01.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\02.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\03.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\04.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\05.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\06.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\07.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\08.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\09.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\10.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\11.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\12.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\13.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\14.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\15.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\16.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\17.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\18.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\19.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\20.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\21.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\22.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\23.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\24.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\25.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\26.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\27.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\28.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\29.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\30.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\31.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\32.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\33.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\34.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\35.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\36.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\37.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\38.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\39.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\40.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\41.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\42.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\43.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\44.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\45.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\46.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\47.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\48.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\49.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\50.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\51.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\52.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\53.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\54.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\55.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\56.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\57.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\58.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\59.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\proc\60.php" afterPath="" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\func\1.php" afterPath="$PROJECT_DIR$/FuncJavaScript/1.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\func\2.php" afterPath="$PROJECT_DIR$/FuncJavaScript/2.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\func\3.php" afterPath="$PROJECT_DIR$/FuncJavaScript/3.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\func\4.php" afterPath="$PROJECT_DIR$/FuncJavaScript/4.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\func\5.php" afterPath="$PROJECT_DIR$/FuncJavaScript/5.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\func\6.php" afterPath="$PROJECT_DIR$/FuncJavaScript/6.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\01.php" afterPath="$PROJECT_DIR$/ProcPHP/01.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\02.php" afterPath="$PROJECT_DIR$/ProcPHP/02.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\03.php" afterPath="$PROJECT_DIR$/ProcPHP/03.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\04.php" afterPath="$PROJECT_DIR$/ProcPHP/04.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\05.php" afterPath="$PROJECT_DIR$/ProcPHP/05.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\06.php" afterPath="$PROJECT_DIR$/ProcPHP/06.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\07.php" afterPath="$PROJECT_DIR$/ProcPHP/07.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\08.php" afterPath="$PROJECT_DIR$/ProcPHP/08.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\09.php" afterPath="$PROJECT_DIR$/ProcPHP/09.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\10.php" afterPath="$PROJECT_DIR$/ProcPHP/10.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\11.php" afterPath="$PROJECT_DIR$/ProcPHP/11.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\12.php" afterPath="$PROJECT_DIR$/ProcPHP/12.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\13.php" afterPath="$PROJECT_DIR$/ProcPHP/13.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\14.php" afterPath="$PROJECT_DIR$/ProcPHP/14.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\15.php" afterPath="$PROJECT_DIR$/ProcPHP/15.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\16.php" afterPath="$PROJECT_DIR$/ProcPHP/16.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\17.php" afterPath="$PROJECT_DIR$/ProcPHP/17.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\18.php" afterPath="$PROJECT_DIR$/ProcPHP/18.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\19.php" afterPath="$PROJECT_DIR$/ProcPHP/19.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\20.php" afterPath="$PROJECT_DIR$/ProcPHP/20.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\21.php" afterPath="$PROJECT_DIR$/ProcPHP/21.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\22.php" afterPath="$PROJECT_DIR$/ProcPHP/22.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\23.php" afterPath="$PROJECT_DIR$/ProcPHP/23.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\24.php" afterPath="$PROJECT_DIR$/ProcPHP/24.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\25.php" afterPath="$PROJECT_DIR$/ProcPHP/25.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\26.php" afterPath="$PROJECT_DIR$/ProcPHP/26.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\27.php" afterPath="$PROJECT_DIR$/ProcPHP/27.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\28.php" afterPath="$PROJECT_DIR$/ProcPHP/28.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\29.php" afterPath="$PROJECT_DIR$/ProcPHP/29.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\30.php" afterPath="$PROJECT_DIR$/ProcPHP/30.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\31.php" afterPath="$PROJECT_DIR$/ProcPHP/31.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\32.php" afterPath="$PROJECT_DIR$/ProcPHP/32.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\33.php" afterPath="$PROJECT_DIR$/ProcPHP/33.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\34.php" afterPath="$PROJECT_DIR$/ProcPHP/34.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\35.php" afterPath="$PROJECT_DIR$/ProcPHP/35.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\36.php" afterPath="$PROJECT_DIR$/ProcPHP/36.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\37.php" afterPath="$PROJECT_DIR$/ProcPHP/37.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\38.php" afterPath="$PROJECT_DIR$/ProcPHP/38.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\39.php" afterPath="$PROJECT_DIR$/ProcPHP/39.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\40.php" afterPath="$PROJECT_DIR$/ProcPHP/40.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\41.php" afterPath="$PROJECT_DIR$/ProcPHP/41.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\42.php" afterPath="$PROJECT_DIR$/ProcPHP/42.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\43.php" afterPath="$PROJECT_DIR$/ProcPHP/43.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\44.php" afterPath="$PROJECT_DIR$/ProcPHP/44.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\45.php" afterPath="$PROJECT_DIR$/ProcPHP/45.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\46.php" afterPath="$PROJECT_DIR$/ProcPHP/46.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\47.php" afterPath="$PROJECT_DIR$/ProcPHP/47.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\48.php" afterPath="$PROJECT_DIR$/ProcPHP/48.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\49.php" afterPath="$PROJECT_DIR$/ProcPHP/49.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\50.php" afterPath="$PROJECT_DIR$/ProcPHP/50.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\51.php" afterPath="$PROJECT_DIR$/ProcPHP/51.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\52.php" afterPath="$PROJECT_DIR$/ProcPHP/52.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\53.php" afterPath="$PROJECT_DIR$/ProcPHP/53.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\54.php" afterPath="$PROJECT_DIR$/ProcPHP/54.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\55.php" afterPath="$PROJECT_DIR$/ProcPHP/55.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\56.php" afterPath="$PROJECT_DIR$/ProcPHP/56.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\57.php" afterPath="$PROJECT_DIR$/ProcPHP/57.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\58.php" afterPath="$PROJECT_DIR$/ProcPHP/58.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\59.php" afterPath="$PROJECT_DIR$/ProcPHP/59.php" />
+      <change type="MOVED" beforePath="E:\wamp\www\mezon\TaskBook\proc\60.php" afterPath="$PROJECT_DIR$/ProcPHP/60.php" />
     </list>
     <ignored path="TaskBook.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +154,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="2.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/func/2.php">
+        <entry file="file://$PROJECT_DIR$/FuncJavaScript/2.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="7" column="10" selection-start="229" selection-end="229" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="561">
               <folding>
@@ -40,7 +165,7 @@
         </entry>
       </file>
       <file leaf-file-name="3.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/func/3.php">
+        <entry file="file://$PROJECT_DIR$/FuncJavaScript/3.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="17" column="0" selection-start="542" selection-end="542" vertical-scroll-proportion="0.5361781" vertical-offset="0" max-vertical-offset="539">
               <folding>
@@ -51,7 +176,7 @@
         </entry>
       </file>
       <file leaf-file-name="1.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/func/1.php">
+        <entry file="file://$PROJECT_DIR$/FuncJavaScript/1.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="7" column="0" selection-start="282" selection-end="299" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="493">
               <folding>
@@ -150,20 +275,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TaskBook" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TaskBook" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="func" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -208,14 +319,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33106962" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994923" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21439394" sideWeight="0.6689304" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21439394" sideWeight="0.67005074" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293718" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -224,7 +336,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -262,24 +373,24 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/proc/20.php">
+    <entry file="file://$PROJECT_DIR$/ProcPHP/20.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="67" selection-start="492" selection-end="536" vertical-scroll-proportion="0.37988827" vertical-offset="0" max-vertical-offset="537" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proc/22.php">
+    <entry file="file://$PROJECT_DIR$/ProcPHP/22.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="563" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proc/56.php">
+    <entry file="file://$PROJECT_DIR$/ProcPHP/56.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="2" selection-start="402" selection-end="440" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="612">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proc/60.php">
+    <entry file="file://$PROJECT_DIR$/ProcPHP/60.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="46" selection-start="779" selection-end="779" vertical-scroll-proportion="-10.923077" vertical-offset="56" max-vertical-offset="595">
           <folding>
@@ -290,7 +401,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proc/57.php">
+    <entry file="file://$PROJECT_DIR$/ProcPHP/57.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="17" selection-start="702" selection-end="702" vertical-scroll-proportion="-3.0769231" vertical-offset="175" max-vertical-offset="714">
           <folding>
@@ -300,7 +411,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proc/58.php">
+    <entry file="file://$PROJECT_DIR$/ProcPHP/58.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="4" selection-start="928" selection-end="928" vertical-scroll-proportion="-8.961538" vertical-offset="56" max-vertical-offset="595">
           <folding>
@@ -310,7 +421,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proc/59.php">
+    <entry file="file://$PROJECT_DIR$/ProcPHP/59.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="37" selection-start="684" selection-end="684" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="493">
           <folding>
@@ -320,7 +431,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proc/54.php">
+    <entry file="file://$PROJECT_DIR$/ProcPHP/54.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="13" selection-start="20" selection-end="20" vertical-scroll-proportion="0.031539887" vertical-offset="0" max-vertical-offset="1037">
           <folding>
@@ -330,7 +441,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proc/55.php">
+    <entry file="file://$PROJECT_DIR$/ProcPHP/55.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="45" selection-start="732" selection-end="732" vertical-scroll-proportion="0.6307978" vertical-offset="0" max-vertical-offset="1411">
           <folding>
@@ -340,28 +451,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/func/4.php">
+    <entry file="file://$PROJECT_DIR$/FuncJavaScript/4.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="565">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/func/5.php">
+    <entry file="file://$PROJECT_DIR$/FuncJavaScript/5.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="565">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/func/6.php">
+    <entry file="file://$PROJECT_DIR$/FuncJavaScript/6.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="565">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proc/53.php">
+    <entry file="file://$PROJECT_DIR$/ProcPHP/53.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="0" selection-start="1" selection-end="37" vertical-scroll-proportion="0.031539887" vertical-offset="0" max-vertical-offset="1156">
           <folding>
@@ -370,7 +481,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/func/2.php">
+    <entry file="file://$PROJECT_DIR$/FuncJavaScript/2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="10" selection-start="229" selection-end="229" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="561">
           <folding>
@@ -379,7 +490,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/func/1.php">
+    <entry file="file://$PROJECT_DIR$/FuncJavaScript/1.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="0" selection-start="282" selection-end="299" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="493">
           <folding>
@@ -388,7 +499,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/func/3.php">
+    <entry file="file://$PROJECT_DIR$/FuncJavaScript/3.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="0" selection-start="542" selection-end="542" vertical-scroll-proportion="0.5361781" vertical-offset="0" max-vertical-offset="539">
           <folding>
