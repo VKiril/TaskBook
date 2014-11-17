@@ -15,10 +15,12 @@
 
 function Leng($xA, $xB, $yA, $yB){
     $a = (pow(($xA - $xB) , 2));
+    //var_dump($a);
     $b = (pow(($yA - $yB) , 2));
+    //var_dump($b);
     $result = pow(($a+$b) , (1/2));
     if(!(ceil($result) == $result)){
-        $result = number_format($result, 3, ',', ' ');
+        $result = number_format($result, 3, '.', ' ');
     }
 
     return $result ;
