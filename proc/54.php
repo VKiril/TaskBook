@@ -1,3 +1,6 @@
+<head>
+    <title>54</title>
+</head>
 <?php
 /**
  * Using the MonthDays function from the task Proc53, write a procedure PrevDate(D, M, Y)
