@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b98505b-a5ae-43f7-a5d4-5f00b145048e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FunctionsJavaScript/8.php" afterPath="$PROJECT_DIR$/FunctionsJavaScript/8.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FunctionsJavaScript/9.php" afterPath="$PROJECT_DIR$/FunctionsJavaScript/9.php" />
     </list>
     <ignored path="TaskBook.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -85,10 +85,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="8.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="8.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FunctionsJavaScript/8.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="0" selection-start="832" selection-end="832" vertical-scroll-proportion="0.8107607" vertical-offset="73" max-vertical-offset="612">
+            <state line="0" column="0" selection-start="0" selection-end="35" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="612">
               <folding>
                 <element signature="e#42#338#0" expanded="true" />
               </folding>
@@ -96,11 +96,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="9.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="9.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FunctionsJavaScript/9.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="204">
-              <folding />
+            <state line="33" column="62" selection-start="1093" selection-end="1093" vertical-scroll-proportion="0.9053803" vertical-offset="73" max-vertical-offset="680">
+              <folding>
+                <element signature="e#42#265#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -152,7 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/proc/53.php" />
         <option value="$PROJECT_DIR$/proc/56.php" />
         <option value="$PROJECT_DIR$/proc/57.php" />
         <option value="$PROJECT_DIR$/proc/59.php" />
@@ -168,6 +169,7 @@
         <option value="$PROJECT_DIR$/FunctionsJavaScript/6.php" />
         <option value="$PROJECT_DIR$/FunctionsJavaScript/7.php" />
         <option value="$PROJECT_DIR$/FunctionsJavaScript/8.php" />
+        <option value="$PROJECT_DIR$/FunctionsJavaScript/9.php" />
       </list>
     </option>
   </component>
@@ -425,13 +427,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FunctionsJavaScript/9.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="565">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FunctionsJavaScript/10.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="565">
@@ -466,9 +461,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FunctionsJavaScript/8.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="832" selection-end="832" vertical-scroll-proportion="0.8107607" vertical-offset="73" max-vertical-offset="612">
+        <state line="0" column="0" selection-start="0" selection-end="35" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="612">
           <folding>
             <element signature="e#42#338#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FunctionsJavaScript/9.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="62" selection-start="1093" selection-end="1093" vertical-scroll-proportion="0.9053803" vertical-offset="73" max-vertical-offset="680">
+          <folding>
+            <element signature="e#42#265#0" expanded="true" />
           </folding>
         </state>
       </provider>
