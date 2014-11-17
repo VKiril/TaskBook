@@ -33,7 +33,7 @@
             }
         }
 
-        return result ; 
+        return result ;
     }
 
     document.getElementById('body').innerHTML = 'a + b is ' + Calc(2 , 3 ,'+');
