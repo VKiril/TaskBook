@@ -27,6 +27,7 @@ echo('is year 2015  a leap year ? '.(IsLeapYear(2015)).'<br/>');
 echo('is year 2016  a leap year ? '.(IsLeapYear(2016)).'<br/>');
 
 ?>
+
 <span style="display: inline-block">
     definition of leap year : &nbsp;
 <a href="http://shpargalkablog.ru/2013/10/leap-year.html">

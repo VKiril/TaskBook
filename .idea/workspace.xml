@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b98505b-a5ae-43f7-a5d4-5f00b145048e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/51.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/52.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/53.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/54.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/55.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/56.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/57.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/58.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/59.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/60.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proc/52.php" afterPath="$PROJECT_DIR$/proc/52.php" />
     </list>
     <ignored path="TaskBook.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -127,7 +117,7 @@
       <file leaf-file-name="52.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/proc/52.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="34" selection-start="842" selection-end="842" vertical-scroll-proportion="0.7150838" vertical-offset="109" max-vertical-offset="697">
+            <state line="29" column="0" selection-start="808" selection-end="808" vertical-scroll-proportion="0.7150838" vertical-offset="109" max-vertical-offset="714">
               <folding>
                 <element signature="e#43#415#0" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
@@ -447,7 +437,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/proc/52.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="34" selection-start="842" selection-end="842" vertical-scroll-proportion="0.7150838" vertical-offset="109" max-vertical-offset="697">
+        <state line="29" column="0" selection-start="808" selection-end="808" vertical-scroll-proportion="0.7150838" vertical-offset="109" max-vertical-offset="714">
           <folding>
             <element signature="e#43#415#0" expanded="true" />
             <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
