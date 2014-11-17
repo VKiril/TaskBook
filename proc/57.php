@@ -15,16 +15,33 @@ echo('<div style="display: none">');
 include '56.php';
 echo('</div>');
 
-function Perim($xA, $yA, $xB, $yB, $xC, $yC){
+function allLength($xA, $yA, $xB, $yB, $xC, $yC){
+
     $a = Leng($xA, $xB, $yA, $yB);
    // var_dump($a);
     $b = Leng($xB, $xC, $yB, $yC);
    // var_dump($b);
     $c = Leng($xA, $xC, $yA, $yC);
    // var_dump($c);
+    $len = array(
+        'a'            => $a ,
+        'b'            => $b ,
+        'c'            => $c
+    );
+    $var = Perim($len);
+    $result =  array(
 
-    return ($a + $b + $c);
+        'perimeter'    => $var,
+        'length'       => $len
+    );
+    return $result ;
 }
 
-echo(Perim(2,2,2,6,6,2) . '<br/>');
-echo(Perim(0,0,0,1,1,0) . '<br/>');
+function Perim($var){
+    $perimeter = $var['a'] + $var['b'] + $var['c'];
+    return $perimeter ;
+}
+$perimeter1 = allLength(2,2,2,6,6,2);
+$perimeter2 = allLength(0,0,0,1,1,0);
+echo($perimeter1['perimeter'] . '<br/>');
+echo($perimeter2['perimeter'] . '<br/>');
