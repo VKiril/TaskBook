@@ -28,5 +28,3 @@
     document.getElementById('body').innerHTML = 'number of the of a coordinate quarter is :  ' + Quarter((-5) , (-2));
 </script>
 
-<!--060415254
-060567997-->
