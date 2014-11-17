@@ -17,12 +17,9 @@ echo('</div>');
 
 function allLength($xA, $yA, $xB, $yB, $xC, $yC){
 
-    $a = Leng($xA, $xB, $yA, $yB);
-   // var_dump($a);
-    $b = Leng($xB, $xC, $yB, $yC);
-   // var_dump($b);
-    $c = Leng($xA, $xC, $yA, $yC);
-   // var_dump($c);
+    $a = abs(Leng($xA, $xB, $yA, $yB));
+    $b = abs(Leng($xB, $xC, $yB, $yC));
+    $c = abs(Leng($xA, $xC, $yA, $yC));
     $len = array(
         'a'            => $a ,
         'b'            => $b ,

@@ -20,13 +20,17 @@ function Area($xA, $yA, $xB, $yB, $xC, $yC){
     $term2 = abs($result['perimeter'] - $result['length']['b']);
     $term3 = abs($result['perimeter'] - $result['length']['c']);
     $underRootExpression = $result['perimeter'] * $term1 * $term2 * $term3 ;
-    $response = pow($underRootExpression , (1/2));
-    $response = number_format($response ,3 , '.', ' ');
+    $area = pow($underRootExpression , (1/2));
+    $area = number_format($area ,3 , '.', ' ');
+    $response  = array(
+        'data_about_triangle' => $result ,
+        'triangle_area'       => $area,
+    );
     return $response ;
 }
 
 
 $area1 = Area(2,2,2,6,6,2);
 $area2 = Area(0,0,0,1,1,0);
-echo($area1. '<br/>');
-echo($area2. '<br/>');
+echo($area1['triangle_area']. '<br/>');
+echo($area2['triangle_area']. '<br/>');
