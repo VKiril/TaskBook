@@ -26,7 +26,7 @@ include 'phpHelper.php';
 
         return X;
     }
-    var arr1 = new Array(1,2,3,4,5,6,7,8);
+    var arr1 =[1,2,3,4,5,6,7,8];
     document.getElementById('body').innerHTML = 'an array before shifting sort ' + arr1 ;
     var shiftArr = ShiftLeft3(arr1);
     document.getElementById('body1').innerHTML = 'an array before shifting sort ' + shiftArr ;
