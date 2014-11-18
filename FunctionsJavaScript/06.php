@@ -14,11 +14,16 @@
 <div id="body"></div>
 <script>
     function SumRange(A, B){
+        if(A > B){
+
+            return 0 ;
+        }
         var i   = 0;
         var sum = 0 ;
         for(i = A ; i <= B ; i ++){
             sum += i;
         }
+
         return sum;
     }
 
