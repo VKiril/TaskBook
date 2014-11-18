@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b98505b-a5ae-43f7-a5d4-5f00b145048e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FunctionsJavaScript/37.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FunctionsJavaScript/38.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FunctionsJavaScript/39.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FunctionsJavaScript/40.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FunctionsJavaScript/41.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FunctionsJavaScript/42.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FunctionsJavaScript/43.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FunctionsJavaScript/36.php" afterPath="$PROJECT_DIR$/FunctionsJavaScript/36.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FunctionsJavaScript/38.php" afterPath="$PROJECT_DIR$/FunctionsJavaScript/38.php" />
     </list>
     <ignored path="TaskBook.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,13 +28,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="37.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="37.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FunctionsJavaScript/37.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="22" selection-start="476" selection-end="476" vertical-scroll-proportion="0.47309834" vertical-offset="0" max-vertical-offset="539">
+            <state line="23" column="9" selection-start="780" selection-end="780" vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="493">
               <folding>
                 <element signature="e#6#343#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="38.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FunctionsJavaScript/38.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="34" selection-start="558" selection-end="558" vertical-scroll-proportion="0.8204633" vertical-offset="0" max-vertical-offset="578">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -101,7 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/FunctionsJavaScript/23.php" />
         <option value="$PROJECT_DIR$/FunctionsJavaScript/24.php" />
         <option value="$PROJECT_DIR$/FunctionsJavaScript/25.php" />
         <option value="$PROJECT_DIR$/FunctionsJavaScript/26.php" />
@@ -117,6 +117,7 @@
         <option value="$PROJECT_DIR$/FunctionsJavaScript/35.php" />
         <option value="$PROJECT_DIR$/FunctionsJavaScript/36.php" />
         <option value="$PROJECT_DIR$/FunctionsJavaScript/37.php" />
+        <option value="$PROJECT_DIR$/FunctionsJavaScript/38.php" />
       </list>
     </option>
   </component>
@@ -288,13 +289,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FunctionsJavaScript/30.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="8" selection-start="517" selection-end="517" vertical-scroll-proportion="0.42772278" vertical-offset="5" max-vertical-offset="510">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FunctionsJavaScript/28.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="9" selection-start="1016" selection-end="1016" vertical-scroll-proportion="0.72200775" vertical-offset="0" max-vertical-offset="518">
@@ -357,13 +351,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FunctionsJavaScript/38.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FunctionsJavaScript/41.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="565">
@@ -385,13 +372,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProceduresPHP/37.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="345" selection-end="476" vertical-scroll-proportion="0.0984556" vertical-offset="0" max-vertical-offset="518">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FunctionsJavaScript/43.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="565">
@@ -401,10 +381,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FunctionsJavaScript/37.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="22" selection-start="476" selection-end="476" vertical-scroll-proportion="0.47309834" vertical-offset="0" max-vertical-offset="539">
+        <state line="23" column="9" selection-start="780" selection-end="780" vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="493">
           <folding>
             <element signature="e#6#343#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProceduresPHP/38.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="397" selection-end="618" vertical-scroll-proportion="0.2953668" vertical-offset="0" max-vertical-offset="595">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProceduresPHP/37.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="345" selection-end="476" vertical-scroll-proportion="0.0984556" vertical-offset="0" max-vertical-offset="518">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FunctionsJavaScript/38.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="34" selection-start="558" selection-end="558" vertical-scroll-proportion="0.8204633" vertical-offset="0" max-vertical-offset="578">
+          <folding />
         </state>
       </provider>
     </entry>
