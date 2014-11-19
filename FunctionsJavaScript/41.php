@@ -48,10 +48,10 @@ include 'phpHelper.php';
         return sin ;
     }
 
-    var x1 = 5 ; var ε1 = 0.8 ;
-    var x2 = 4 ; var ε2 = 0.01 ;
-    var x3 = 6 ; var ε3 = 0.001 ;
-    var x4 = 9 ; var ε4 = 0.0001 ;
+    var x1 = 3 ; var ε1 = 0.8 ;
+    var x2 = 2 ; var ε2 = 0.01 ;
+    var x3 = 1 ; var ε3 = 0.001 ;
+    var x4 = 2.5 ; var ε4 = 0.0001 ;
 
      document.getElementById('body').innerHTML = 'x is ' + x1 + ' , ε is ' + ε1 + ' and approximate value of the function sin(x) is : ' + Sin1(x1 , ε1);
     document.getElementById('body1').innerHTML = 'x is ' + x2 + ' , ε is ' + ε2 + ' and approximate value of the function sin(x) is : ' + Sin1(x2 , ε2);
