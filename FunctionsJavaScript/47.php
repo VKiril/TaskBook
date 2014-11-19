@@ -5,7 +5,7 @@
  * Date: 19.11.14
  * Time: 17:12
  */
-include 'phpHelper';
+include 'phpHelper.php';
 ?>
 <script>
 
