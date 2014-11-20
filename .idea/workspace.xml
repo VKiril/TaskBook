@@ -41,8 +41,10 @@
       <file leaf-file-name="51.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FunctionsJavaScript/51.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="106" selection-start="769" selection-end="769" vertical-scroll-proportion="0.56771797" vertical-offset="0" max-vertical-offset="539">
-              <folding />
+            <state line="12" column="0" selection-start="450" selection-end="450" vertical-scroll-proportion="0.37847868" vertical-offset="0" max-vertical-offset="539">
+              <folding>
+                <element signature="e#6#422#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -346,8 +348,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FunctionsJavaScript/51.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="106" selection-start="769" selection-end="769" vertical-scroll-proportion="0.56771797" vertical-offset="0" max-vertical-offset="539">
-          <folding />
+        <state line="12" column="0" selection-start="450" selection-end="450" vertical-scroll-proportion="0.37847868" vertical-offset="0" max-vertical-offset="539">
+          <folding>
+            <element signature="e#6#422#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
