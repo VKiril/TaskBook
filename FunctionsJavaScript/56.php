@@ -11,9 +11,9 @@ include 'phpHelper.php';
 <script>
     function Leng(xA, xB, yA, yB){
         var result = 0 ;
-        a = (Math.pow((xA - xB) , 2));
+       var a = (Math.pow((xA - xB) , 2));
         console.log(a);
-        b = (Math.pow((yA - yB) , 2));
+        var b = (Math.pow((yA - yB) , 2));
         console.log(b);
         result = Math.pow((a+b) , (1/2));
         if(!(Math.ceil(result) == result)){
@@ -21,7 +21,6 @@ include 'phpHelper.php';
         }
 
         return result ;
-
     }
 
 
