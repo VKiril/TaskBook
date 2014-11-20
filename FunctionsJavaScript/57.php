@@ -42,5 +42,5 @@ include 'phpHelper.php';
      var perimeter2 = allLength(0,0,0,1,1,0);
 
      document.getElementById('body').innerHTML = 'area ' + perimeter1[0] + 'and perimeter ' + perimeter1[1] ;
-    document.getElementById('body1').innerHTML = 'area ' + perimeter2[0] + 'and perimeter ' + perimeter2[1]
+    document.getElementById('body1').innerHTML = 'area ' + perimeter2[0] + 'and perimeter ' + perimeter2[1];
 </script>
