@@ -15,8 +15,6 @@ function RemoveRows(&$A, $M, $N, $K1, $K2){
             $K2 =$M;
         }
         for($i = $K1 ;$i < $K2 ; $i ++){
-
-            
             unset($A[$i]);
 
         }
