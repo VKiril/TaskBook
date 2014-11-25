@@ -7,6 +7,10 @@
 include 'helper.php';
 echo("<div style='width: 800px; margin-left: 20% ;' >");
 function LineCount($S){
+    if(!file_exists($S)){
+        echo '-1';
+        return -1;
+    }
     $file= $S;
     $lineCount = 0;
     $handle = fopen($file, "r");
