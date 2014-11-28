@@ -8,8 +8,8 @@
  */
 
 
-
-//namespace ParamPhpJavascript;
+namespace ParamPhpJavaScrit\TDate;
+use \DateTime;
 
 include'helper.php';
 
@@ -82,11 +82,11 @@ class TDate  {
         for($i = 0 ; $i < $this->Day ; $i+=4){
             if($this->Year == $i){
                 //echo $this->Year.' this is a leap year';
-                $result = 'is leap year';
-                return 1;
+                $result = 1;
+                return $result;
             }else{
                // echo $this->Year.' this is not a leap year';
-                $result = 'not leap year';
+                $result = 0;
             }
         }
         return $result;
@@ -94,7 +94,9 @@ class TDate  {
 
 }
 
+
 $b = new DateTime();
 echo $b->format('Y-m-d H:i:s').'<br/>';
+
 $a = new TDate(12,5,2014);
 echo $a->isLeapYear();
