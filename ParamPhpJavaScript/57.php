@@ -7,3 +7,12 @@
  * and using this procedure, encrypt a text file with the given name.
  */
 
+function EncodeText() {
+    $val = 40;
+    $places = 2;
+    $res = $val >>  $places;
+    //$res = $res >>  $places;
+    echo $res;
+}
+
+EncodeText();
