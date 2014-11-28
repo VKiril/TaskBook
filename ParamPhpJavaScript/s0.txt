@@ -1,5 +1,5 @@
-﻿Stenoza aortica reprezinta obstructia fluxului sanguin prin valvele aortice. Stenoza aortica are mai multe etiologii,
-precum valva unicuspida sau bicuspida congenitala, boala reumatica si modificarile degenerative ale valvelor.
-
-Atunci cind valvele aortice devin stenotice apare rezistenta la ejectia sistolica si se dezvolta un gradient de
-presiune sistolica intre ventriculul sting si aorta. Acest fapt conduce la incarcarea presionala a ventriculului
+6  ﻿Stenoza aortica reprezinta obstructia fluxului sanguin prin valvele aortice. Stenoza aortica are mai multe etiologii,
+7  precum valva unicuspida sau bicuspida congenitala, boala reumatica si modificarile degenerative ale valvelor.
+8  
+9  Atunci cind valvele aortice devin stenotice apare rezistenta la ejectia sistolica si se dezvolta un gradient de
+10 presiune sistolica intre ventriculul sting si aorta. Acest fapt
