@@ -30,7 +30,7 @@ function SplitText($S0, $K, $S1, $S2){
 
     $texts1 = implode(' ',$arrS1);
     $texts2 = implode(' ',$arrS2);
-    echo $texts1;
+   // echo $texts1;
     //var_dump($arrS2);
     fwrite($handleS1 , $texts1);
     fwrite($handleS2 , $texts2);
