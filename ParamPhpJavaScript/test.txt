@@ -1,16 +1,1 @@
-6  ﻿Stenoza aortica reprezinta obstructia fluxului sanguin prin valvele aortice. Stenoza aortica are mai multe etiologii,
-7  precum valva unicuspida sau bicuspida congenitala, boala reumatica si modificarile degenerative ale valvelor.
-8  
-9  Atunci cind valvele aortice devin stenotice apare rezistenta la ejectia sistolica si se dezvolta un gradient de
-10 presiune sistolica intre ventriculul sting si aorta. Acest fapt conduce la incarcarea presionala a ventriculului
-11 sting care in timp determina cresterea grosimii peretelui ventricular (hipertrofia concentrica). In acest stadiu
-12 camerele nu sunt dilatate iar functia ventriculara este pastrata, desi complianta diastolica poate fi afectata.
-13 
-14 In timp, ventriculul sting se va dilata. Acest fenomen cuplat cu scaderea compliantei asociaza cresterea presiunii
-15 telediastolice ventriculare stingi, care va creste si mai mult presiunea atriala sistolica si va conduce la
-16 decompensarea cardiaca. In final se va dezvolta insuficienta cardiaca congestiva.
-17 
-18 Decesul cardiac subit apare la 5% dintre pacientii cu stenoza aortica. Adultii cu stenoza aortica au o rata de
-19 mortalitate pe an de 9%. Odata ce s-au instalat simptomele, incidenta mortii subite creste la 20%, cu o durata
-20 medie de supravietuire de sub 5 ani. Pacientii cu angina de efort sau sincopa au o medie de supravietuire de 3 ani.
-21 Dupa dezvoltarea insuficientei ventriculare stingi speranta de viata este de maxim 1 an
+01101000 01100101 01101100 01101100 01101111 00100000 01110111 01101111 01110010 01101100 01100100 
