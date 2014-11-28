@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b98505b-a5ae-43f7-a5d4-5f00b145048e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParamPhpJavaScript/57.php" afterPath="$PROJECT_DIR$/ParamPhpJavaScript/57.php" />
+      <change type="DELETED" beforePath="E:\wamp\www\mezon\TaskBook\ParamPhpJavaScript\60.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParamPhpJavaScript/59.php" afterPath="$PROJECT_DIR$/ParamPhpJavaScript/59.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TaskBook.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -61,7 +62,7 @@
       <file leaf-file-name="59.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/59.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="95" column="37" selection-start="2026" selection-end="2026" vertical-scroll-proportion="3.1177607" vertical-offset="0" max-vertical-offset="1751">
+            <state line="14" column="0" selection-start="617" selection-end="617" vertical-scroll-proportion="0.45945945" vertical-offset="0" max-vertical-offset="1785">
               <folding>
                 <element signature="e#6#559#0" expanded="true" />
               </folding>
@@ -302,13 +303,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/50.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="3" selection-start="442" selection-end="476" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="595">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_5.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="409" column="9" selection-start="11584" selection-end="11584" vertical-scroll-proportion="0.35049504" vertical-offset="6776" max-vertical-offset="19057" />
@@ -412,7 +406,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/59.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="95" column="37" selection-start="2026" selection-end="2026" vertical-scroll-proportion="3.1177607" vertical-offset="0" max-vertical-offset="1751">
+        <state line="14" column="0" selection-start="617" selection-end="617" vertical-scroll-proportion="0.45945945" vertical-offset="0" max-vertical-offset="1785">
           <folding>
             <element signature="e#6#559#0" expanded="true" />
           </folding>
