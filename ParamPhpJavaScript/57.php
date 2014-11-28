@@ -7,12 +7,25 @@
  * and using this procedure, encrypt a text file with the given name.
  */
 
-function EncodeText() {
-    $val = 40;
-    $places = 2;
-    $res = $val >>  $places;
-    //$res = $res >>  $places;
-    echo $res;
+function EncodeText($s , $k) {
+
+    $handle = fopen($s , 'r');
+    $string = fread($handle , filesize($s));
+    $buff = '';
+    for($i = 0 ; $i < strlen($string) ; $i++){
+
+        $ascii = ord($string[$i]);
+        $ascii +=$k;
+        //$string[$i] = chr($ascii);
+        $buff = $buff.chr($ascii);
+    }
+
+
+    fclose($handle);
+    echo $buff;
+    $handle = fopen($s , 'w');
+    fwrite($handle , $buff);
+    fclose($handle);
 }
 
-EncodeText();
+EncodeText('test.txt' , 4);
