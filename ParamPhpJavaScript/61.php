@@ -14,8 +14,24 @@ echo '</div >';
 use ParamPhpJavaScrit\TDate\TDate;
 
 
-function checkDate($d1){
-    $a = new TDate(29,02,2014);
+function CheckDate1($d1){
+    $response = 0;
+    $a = new TDate($d1['d'],$d1['m'],$d1['y']);
+    if($a->getMonth() > 12){
+        $response = 1 ;
+    }
+    $numberOfDays = DaysInMonth($a);
+    if ($a->getDay() > $numberOfDays['days']){
+        $response = 2 ;
+    }
 
-    return 1;
+    return $response;
 }
+
+$param = array(
+    'd'=>29,
+    'm'=>02,
+    'y'=>2014,
+);
+$result = CheckDate1($param);
+var_dump($result);

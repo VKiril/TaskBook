@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b98505b-a5ae-43f7-a5d4-5f00b145048e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParamPhpJavaScript/61.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParamPhpJavaScript/62.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParamPhpJavaScript/63.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParamPhpJavaScript/64.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParamPhpJavaScript/65.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParamPhpJavaScript/66.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParamPhpJavaScript/67.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParamPhpJavaScript/68.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParamPhpJavaScript/69.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ParamPhpJavaScript/70.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParamPhpJavaScript/60.php" afterPath="$PROJECT_DIR$/ParamPhpJavaScript/60.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParamPhpJavaScript/61.php" afterPath="$PROJECT_DIR$/ParamPhpJavaScript/61.php" />
     </list>
     <ignored path="TaskBook.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,10 +28,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="60.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="60.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/60.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="13" selection-start="1084" selection-end="1084" vertical-scroll-proportion="0.9189189" vertical-offset="255" max-vertical-offset="833">
+            <state line="18" column="20" selection-start="516" selection-end="527" vertical-scroll-proportion="2.9615386" vertical-offset="315" max-vertical-offset="833">
               <folding>
                 <marker date="1417435472549" expanded="true" signature="368:382" placeholder="..." />
               </folding>
@@ -50,13 +39,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="61.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="61.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/61.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="650" selection-end="650" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="442">
+            <state line="35" column="20" selection-start="965" selection-end="965" vertical-scroll-proportion="1.1486486" vertical-offset="0" max-vertical-offset="714">
               <folding>
                 <element signature="e#6#438#0" expanded="true" />
-                <marker date="1417435472544" expanded="false" signature="480:494" placeholder="..." />
+                <marker date="1417436514705" expanded="false" signature="480:494" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -166,8 +155,8 @@
         <option value="$PROJECT_DIR$/ParamPhpJavaScript/58.php" />
         <option value="$PROJECT_DIR$/ParamPhpJavaScript/55.php" />
         <option value="$PROJECT_DIR$/ParamPhpJavaScript/56.php" />
-        <option value="$PROJECT_DIR$/ParamPhpJavaScript/61.php" />
         <option value="$PROJECT_DIR$/ParamPhpJavaScript/60.php" />
+        <option value="$PROJECT_DIR$/ParamPhpJavaScript/61.php" />
       </list>
     </option>
   </component>
@@ -436,21 +425,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/61.php">
+    <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/60.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="650" selection-end="650" vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="442">
+        <state line="18" column="20" selection-start="516" selection-end="527" vertical-scroll-proportion="2.9615386" vertical-offset="315" max-vertical-offset="833">
           <folding>
-            <element signature="e#6#438#0" expanded="true" />
-            <marker date="1417435472544" expanded="false" signature="480:494" placeholder="..." />
+            <marker date="1417435472549" expanded="true" signature="368:382" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/60.php">
+    <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/61.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="13" selection-start="1084" selection-end="1084" vertical-scroll-proportion="0.9189189" vertical-offset="255" max-vertical-offset="833">
+        <state line="35" column="20" selection-start="965" selection-end="965" vertical-scroll-proportion="1.1486486" vertical-offset="0" max-vertical-offset="714">
           <folding>
-            <marker date="1417435472549" expanded="true" signature="368:382" placeholder="..." />
+            <element signature="e#6#438#0" expanded="true" />
+            <marker date="1417436514705" expanded="false" signature="480:494" placeholder="..." />
           </folding>
         </state>
       </provider>
