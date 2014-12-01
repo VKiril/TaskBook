@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6b98505b-a5ae-43f7-a5d4-5f00b145048e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParamPhpJavaScript/61.php" afterPath="$PROJECT_DIR$/ParamPhpJavaScript/61.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParamPhpJavaScript/62.php" afterPath="$PROJECT_DIR$/ParamPhpJavaScript/62.php" />
     </list>
     <ignored path="TaskBook.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,93 +32,42 @@
       <file leaf-file-name="60.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/60.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="20" selection-start="516" selection-end="527" vertical-scroll-proportion="2.9615386" vertical-offset="315" max-vertical-offset="833">
+            <state line="23" column="0" selection-start="598" selection-end="598" vertical-scroll-proportion="-1.1153846" vertical-offset="294" max-vertical-offset="833">
               <folding>
-                <marker date="1417435472549" expanded="true" signature="368:382" placeholder="..." />
+                <marker date="1417435472549" expanded="false" signature="368:382" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="61.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="61.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/61.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="20" selection-start="965" selection-end="965" vertical-scroll-proportion="1.1486486" vertical-offset="0" max-vertical-offset="714">
+            <state line="27" column="21" selection-start="833" selection-end="833" vertical-scroll-proportion="-15.192307" vertical-offset="64" max-vertical-offset="629">
               <folding>
                 <element signature="e#6#438#0" expanded="true" />
-                <marker date="1417436514705" expanded="false" signature="480:494" placeholder="..." />
+                <marker date="1417437547359" expanded="false" signature="480:494" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="63.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/63.php">
+      <file leaf-file-name="62.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/62.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="204">
-              <folding />
+            <state line="45" column="28" selection-start="1237" selection-end="1237" vertical-scroll-proportion="0.58998144" vertical-offset="447" max-vertical-offset="986">
+              <folding>
+                <element signature="e#6#358#0" expanded="true" />
+                <marker date="1417439312074" expanded="true" signature="400:414" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="64.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/64.php">
+      <file leaf-file-name="59.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/59.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="204">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="65.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/65.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="204">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="66.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/66.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="204">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="67.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/67.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="204">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="68.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/68.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="204">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="69.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/69.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="204">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="70.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/70.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="4" selection-start="85" selection-end="85" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="204">
+            <state line="32" column="26" selection-start="917" selection-end="923" vertical-scroll-proportion="-17.0" vertical-offset="0" max-vertical-offset="1717">
               <folding />
             </state>
           </provider>
@@ -141,7 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/ParamPhpJavaScript/51.php" />
         <option value="$PROJECT_DIR$/ParamPhpJavaScript/file.txt" />
         <option value="$PROJECT_DIR$/ParamPhpJavaScript/52.php" />
         <option value="$PROJECT_DIR$/ParamPhpJavaScript/54.php" />
@@ -157,6 +106,7 @@
         <option value="$PROJECT_DIR$/ParamPhpJavaScript/56.php" />
         <option value="$PROJECT_DIR$/ParamPhpJavaScript/60.php" />
         <option value="$PROJECT_DIR$/ParamPhpJavaScript/61.php" />
+        <option value="$PROJECT_DIR$/ParamPhpJavaScript/62.php" />
       </list>
     </option>
   </component>
@@ -327,13 +277,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/57.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="526" selection-end="982" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="629">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/54.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="36" column="0" selection-start="1022" selection-end="1022" vertical-scroll-proportion="-10.769231" vertical-offset="247" max-vertical-offset="765">
@@ -362,13 +305,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/62.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="565">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/63.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
@@ -390,6 +326,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/69.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/70.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="4" selection-start="85" selection-end="85" vertical-scroll-proportion="0.18923934" vertical-offset="0" max-vertical-offset="539">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/68.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/66.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
@@ -404,42 +361,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/68.php">
+    <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/61.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/69.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/70.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="4" selection-start="85" selection-end="85" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="204">
-          <folding />
+        <state line="27" column="21" selection-start="833" selection-end="833" vertical-scroll-proportion="-15.192307" vertical-offset="64" max-vertical-offset="629">
+          <folding>
+            <element signature="e#6#438#0" expanded="true" />
+            <marker date="1417437547359" expanded="false" signature="480:494" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/60.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="20" selection-start="516" selection-end="527" vertical-scroll-proportion="2.9615386" vertical-offset="315" max-vertical-offset="833">
+        <state line="23" column="0" selection-start="598" selection-end="598" vertical-scroll-proportion="-1.1153846" vertical-offset="294" max-vertical-offset="833">
           <folding>
-            <marker date="1417435472549" expanded="true" signature="368:382" placeholder="..." />
+            <marker date="1417435472549" expanded="false" signature="368:382" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/61.php">
+    <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/59.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="20" selection-start="965" selection-end="965" vertical-scroll-proportion="1.1486486" vertical-offset="0" max-vertical-offset="714">
+        <state line="32" column="26" selection-start="917" selection-end="923" vertical-scroll-proportion="-17.0" vertical-offset="0" max-vertical-offset="1717">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/62.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="28" selection-start="1237" selection-end="1237" vertical-scroll-proportion="0.58998144" vertical-offset="447" max-vertical-offset="986">
           <folding>
-            <element signature="e#6#438#0" expanded="true" />
-            <marker date="1417436514705" expanded="false" signature="480:494" placeholder="..." />
+            <element signature="e#6#358#0" expanded="true" />
+            <marker date="1417439312074" expanded="true" signature="400:414" placeholder="..." />
           </folding>
         </state>
       </provider>
