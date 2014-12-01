@@ -37,7 +37,12 @@ function DaysInMonth($D){
         12 => 31,
     );
 
-    return 'month '.$D->getMonth().' have '.$days[$D->getMonth()].' DAYS';
+    //return 'month '.$D->getMonth().' have '.$days[$D->getMonth()].' DAYS';
+    return array(
+        'month' => $D->getMonth(),
+        'days'  => $days[$D->getMonth()],
+    );
 }
 
-echo DaysInMonth(new TDate(12,2,2014));
+$a = DaysInMonth(new TDate(12,2,2014));
+var_dump($a);
