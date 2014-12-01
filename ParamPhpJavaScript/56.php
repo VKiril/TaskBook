@@ -5,7 +5,7 @@
  * of strings.
  */
 function TextToStringFile($S){
-    $asciiToBin1 =  array(
+    /*$asciiToBin1 =  array(
         'A'  => 01000001 ,
         'B'  => 01000010 ,
         'C'  => 01000011 ,
@@ -62,25 +62,18 @@ function TextToStringFile($S){
         '#'  => 00100011 ,
         ' '  => 00100000,
 
-    );
+    );*/
 
     $handle = fopen($S, "r+");
-    $var = fread($handle,filesize($S));
-    $var = strtoupper ($var);
+    $var  = fread($handle,filesize($S));
     $arr = explode(' ',$var);
-    var_dump($arr);
-    var_dump(sizeof($arr));
-    var_dump(sizeof($asciiToBin1));
-    //die;
+    $bin = 0 ;
     $text = '';
-    for($i = 0 ; $i<sizeof($arr)-2;$i++){
-        for($j = 0 ; $j < sizeof($asciiToBin1)-10;$j++){
-            if($arr[$i] == $asciiToBin1[$j]){
-                $text = $text.$asciiToBin1[$j];
-                echo $text.'<br/>';
-            }
-            return 1;
-        }
+    for($i = 0 ; $i<sizeof($arr);$i++){
+
+        $bin = hex2bin (ord($arr[$i]));
+        $text = $text.' '.$bin;
+
     }
     fwrite($handle , $text);
 
