@@ -15,6 +15,7 @@ echo '<div style="display: none;">';
 include 'helper.php';
 require_once '64.php';
 echo '</div >';
+use TPoint\TPoint;
 
 class TTriangle {
     private $Ax ;
@@ -134,7 +135,7 @@ class TTriangle {
 
 }
 
-use TPoint\TPoint;
+
 $t1 = new TTriangle(2,6,7,1,2,1);
 function Leng1($a,$b){
     $length = pow(($a->getX() - $b->getX()),2) + pow($a->getY() - $b->getY(),2);
