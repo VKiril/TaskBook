@@ -10,6 +10,7 @@
 
 namespace TPoint;
 include 'helper.php';
+
 class TPoint{
     private $X ;
     private $Y;
@@ -54,10 +55,12 @@ class TPoint{
 
 $a = new TPoint(4,5);
 $b = new TPoint(10,15);
-function Leng($A, $B){
-    $length = pow(($B->getX() - $A->getX()),2) + pow(($B->getY() - $A->getY()),2);
+
+
+function Leng1($a,$b){
+    $length = pow(($a->getX() - $b->getX()),2) + pow($a->getY() - $b->getY(),2);
     $len = sqrt($length);
     return $len;
 }
 
-echo Leng($a , $b);
+echo Leng1($a , $b);
