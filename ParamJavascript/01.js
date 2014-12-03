@@ -15,4 +15,4 @@ function MinElem($A , $N ){
 
 
 $arr1 =  [10,2,4,3,6,1,98,5,4,3,23,65];
-console.log(MinElem($arr1 , 1));
+console.log(MinElem($arr1 , 14));
