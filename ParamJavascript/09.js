@@ -1,5 +1,12 @@
 /**
- * Created by asus on 03.12.14.
+ * Write a procedure RemoveForInc(A, N) that removes some elements from an array A of N real numbers
+ * so that the values of elements being remained were in ascending order: the first element remains
+ * unchanged, the second element must be removed if its value is less than the value of the first one,
+ * the third element must be removed if its value is less than the value of the previous element being
+ * remained, and so on. For instance, the array of elements 5.5, 2.5, 4.6, 7.2, 5.8, 9.4 must be changed
+ * to 5.5, 7.2, 9.4. All procedure parameters are input and output ones. Using this procedure, change
+ * three given arrays A, B, C whose sizes are NA, NB, NC respectively and output the new size and
+ * elements of each changed array.
  */
 
 function RemoveForInc($A, $N  ){
