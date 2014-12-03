@@ -1,5 +1,10 @@
 /**
- * Created by asus on 03.12.14.
+ * Write a procedure Smooth3(A, N) that performs smoothing an array A of N
+ * real numbers as follows: each array element is replaced with the average
+ * of initial values of this element and its neighbors. The array A is an input
+ * and output parameter. Using five calls of this procedure, perform smoothing a
+ * given array A of N real numbers five times successively; output array elements
+ * after each smoothing.
  */
 
 function Smooth3($A, $N){
