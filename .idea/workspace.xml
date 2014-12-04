@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b98505b-a5ae-43f7-a5d4-5f00b145048e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParamJavascript/13.js" afterPath="$PROJECT_DIR$/ParamJavascript/13.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParamJavascript/14.js" afterPath="$PROJECT_DIR$/ParamJavascript/14.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParamJavascript/index.html" afterPath="$PROJECT_DIR$/ParamJavascript/index.html" />
     </list>
     <ignored path="TaskBook.iws" />
@@ -29,10 +29,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ParamJavascript/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="38" selection-start="96" selection-end="96" vertical-scroll-proportion="0.15769945" vertical-offset="0" max-vertical-offset="539">
+            <state line="5" column="38" selection-start="96" selection-end="96" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="255">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="14.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ParamJavascript/14.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="31" selection-start="695" selection-end="695" vertical-scroll-proportion="0.3380531" vertical-offset="81" max-vertical-offset="646">
               <folding />
             </state>
           </provider>
@@ -83,7 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/ParamPhpJavaScript/70.php" />
         <option value="$PROJECT_DIR$/ParamJavascript/02.js" />
         <option value="$PROJECT_DIR$/ParamJavascript/01.js" />
         <option value="$PROJECT_DIR$/ParamJavascript/03.js" />
@@ -99,6 +107,7 @@
         <option value="$PROJECT_DIR$/ParamJavascript/12.js" />
         <option value="$PROJECT_DIR$/ParamJavascript/13.js" />
         <option value="$PROJECT_DIR$/ParamJavascript/index.html" />
+        <option value="$PROJECT_DIR$/ParamJavascript/14.js" />
       </list>
     </option>
   </component>
@@ -251,11 +260,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/70.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="33" selection-start="834" selection-end="834" vertical-scroll-proportion="-4.9615383" vertical-offset="279" max-vertical-offset="816" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/01.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="0" selection-start="314" selection-end="525" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="595" />
@@ -350,7 +354,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ParamJavascript/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="38" selection-start="96" selection-end="96" vertical-scroll-proportion="0.15769945" vertical-offset="0" max-vertical-offset="539">
+        <state line="5" column="38" selection-start="96" selection-end="96" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParamJavascript/14.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="31" selection-start="695" selection-end="695" vertical-scroll-proportion="0.3380531" vertical-offset="81" max-vertical-offset="646">
           <folding />
         </state>
       </provider>
