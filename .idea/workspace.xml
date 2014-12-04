@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b98505b-a5ae-43f7-a5d4-5f00b145048e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParamJavascript/38.js" afterPath="$PROJECT_DIR$/ParamJavascript/38.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParamJavascript/index.html" afterPath="$PROJECT_DIR$/ParamJavascript/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParamJavascript/39.js" afterPath="$PROJECT_DIR$/ParamJavascript/39.js" />
     </list>
     <ignored path="TaskBook.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,10 +28,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ParamJavascript/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="38" selection-start="96" selection-end="96" vertical-scroll-proportion="0.16666667" vertical-offset="0" max-vertical-offset="510">
+            <state line="5" column="38" selection-start="96" selection-end="96" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="255">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="39.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ParamJavascript/39.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="65" selection-start="707" selection-end="707" vertical-scroll-proportion="0.60261196" vertical-offset="0" max-vertical-offset="536">
               <folding />
             </state>
           </provider>
@@ -50,7 +58,7 @@
       <file leaf-file-name="37.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ParamJavascript/37.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="7" selection-start="74" selection-end="89" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+            <state line="5" column="18" selection-start="78" selection-end="85" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
               <folding />
             </state>
           </provider>
@@ -74,7 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/ParamJavascript/24.js" />
         <option value="$PROJECT_DIR$/ParamJavascript/25.js" />
         <option value="$PROJECT_DIR$/ParamJavascript/26.js" />
         <option value="$PROJECT_DIR$/ParamJavascript/27.js" />
@@ -90,6 +97,7 @@
         <option value="$PROJECT_DIR$/ParamJavascript/37.js" />
         <option value="$PROJECT_DIR$/ParamJavascript/38.js" />
         <option value="$PROJECT_DIR$/ParamJavascript/index.html" />
+        <option value="$PROJECT_DIR$/ParamJavascript/39.js" />
       </list>
     </option>
   </component>
@@ -240,13 +248,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ParamJavascript/24.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="595" selection-end="631" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ParamJavascript/25.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="0" selection-start="479" selection-end="515" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
@@ -331,13 +332,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ParamJavascript/37.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="7" selection-start="74" selection-end="89" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ParamJavascript/38.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="63" selection-start="643" selection-end="643" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
@@ -347,7 +341,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ParamJavascript/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="38" selection-start="96" selection-end="96" vertical-scroll-proportion="0.16666667" vertical-offset="0" max-vertical-offset="510">
+        <state line="5" column="38" selection-start="96" selection-end="96" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParamJavascript/37.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="18" selection-start="78" selection-end="85" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParamJavascript/39.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="65" selection-start="707" selection-end="707" vertical-scroll-proportion="0.60261196" vertical-offset="0" max-vertical-offset="536">
           <folding />
         </state>
       </provider>
