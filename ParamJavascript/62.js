@@ -7,6 +7,55 @@
 
 document.write('<scr'+'ipt type="text/javascript" src="61.js" ></scr'+'ipt>');
 
+
+function TDate(d,m,y){
+    this.day  = d;
+    this.month= m;
+    this.year = y;
+    this.isLeapYear = function (){
+        var $result = '';
+        for(var $i = 0 ; $i < this.day ; $i+=4){
+            if(this.year == $i){
+                //echo $this->Year.' this is a leap year';
+                $result = 1;
+                return $result;
+            }else{
+                // echo $this->Year.' this is not a leap year';
+                $result = 0;
+            }
+        }
+        return $result;
+    }
+}
+
+
+function DaysInMonth(D){
+
+    var nrOfDays = D.isLeapYear()
+        ?   29
+        :   28;
+
+    var days = [31,nrOfDays,31, 30, 31,30, 31,31,30, 31, 30, 31];
+
+    return [days[D.month-1], D.month];
+}
+
+
+function CheckDate1(d){
+    var response = 0;
+
+    if(d.month > 12){
+        response = 1 ;
+    }
+    var numberOfDays = DaysInMonth(d);
+    if (d.day > numberOfDays[0]){
+        response = 2 ;
+    }
+
+    return response;
+}
+
+
 function PrevDate1(d){
 
     var checkDate = CheckDate1(d);
@@ -34,4 +83,5 @@ function PrevDate1(d){
     return d;
 }
 
-$a = new TDate( 1,1,2014);
+var a = new TDate( 1,1,2014);
+console.log(PrevDate1(a));
