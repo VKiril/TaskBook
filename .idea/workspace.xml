@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b98505b-a5ae-43f7-a5d4-5f00b145048e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParamJavascript/67.js" afterPath="$PROJECT_DIR$/ParamJavascript/67.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParamJavascript/69.js" afterPath="$PROJECT_DIR$/ParamJavascript/69.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParamJavascript/index.html" afterPath="$PROJECT_DIR$/ParamJavascript/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TaskBook.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,19 +30,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ParamJavascript/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="38" selection-start="96" selection-end="96" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="255">
+            <state line="5" column="38" selection-start="96" selection-end="96" vertical-scroll-proportion="0.17382413" vertical-offset="0" max-vertical-offset="489">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="68.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="68.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ParamJavascript/68.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="70" column="0" selection-start="1701" selection-end="1701" vertical-scroll-proportion="0.6368932" vertical-offset="862" max-vertical-offset="1377">
+            <state line="19" column="0" selection-start="690" selection-end="833" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="1377">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="69.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ParamJavascript/69.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="42" column="28" selection-start="1032" selection-end="1032" vertical-scroll-proportion="0.0" vertical-offset="233" max-vertical-offset="816">
               <folding />
             </state>
           </provider>
@@ -49,7 +60,7 @@
       <file leaf-file-name="67.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ParamJavascript/67.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="23" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1377">
+            <state line="4" column="23" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="1377">
               <folding />
             </state>
           </provider>
@@ -58,7 +69,7 @@
       <file leaf-file-name="65.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ParamJavascript/65.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="450" selection-end="1039" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="782">
+            <state line="7" column="0" selection-start="450" selection-end="1039" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="782">
               <folding />
             </state>
           </provider>
@@ -67,16 +78,7 @@
       <file leaf-file-name="66.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ParamJavascript/66.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="447" selection-end="1380" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1105">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="59.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ParamJavascript/59.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="558" selection-end="1068" vertical-scroll-proportion="0.0" vertical-offset="109" max-vertical-offset="697">
+            <state line="8" column="0" selection-start="447" selection-end="1380" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="1105">
               <folding />
             </state>
           </provider>
@@ -103,7 +105,7 @@
       <file leaf-file-name="62.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ParamJavascript/62.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="1" selection-start="355" selection-end="434" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1564">
+            <state line="7" column="1" selection-start="355" selection-end="434" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="1564">
               <folding />
             </state>
           </provider>
@@ -112,7 +114,7 @@
       <file leaf-file-name="64.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ParamJavascript/64.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="495" selection-end="637" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+            <state line="15" column="0" selection-start="495" selection-end="637" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="527">
               <folding />
             </state>
           </provider>
@@ -136,7 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/ParamJavascript/44.js" />
         <option value="$PROJECT_DIR$/ParamJavascript/45.js" />
         <option value="$PROJECT_DIR$/ParamJavascript/46.js" />
         <option value="$PROJECT_DIR$/ParamJavascript/47.js" />
@@ -150,8 +151,9 @@
         <option value="$PROJECT_DIR$/ParamJavascript/65.js" />
         <option value="$PROJECT_DIR$/ParamJavascript/66.js" />
         <option value="$PROJECT_DIR$/ParamJavascript/67.js" />
-        <option value="$PROJECT_DIR$/ParamJavascript/index.html" />
         <option value="$PROJECT_DIR$/ParamJavascript/68.js" />
+        <option value="$PROJECT_DIR$/ParamJavascript/69.js" />
+        <option value="$PROJECT_DIR$/ParamJavascript/index.html" />
       </list>
     </option>
   </component>
@@ -186,6 +188,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -220,7 +223,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -273,7 +275,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33011273" sideWeight="0.6706282" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34138486" sideWeight="0.6706282" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293718" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -302,11 +304,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/55.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ParamPhpJavaScript/57.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544" />
@@ -329,9 +326,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ParamJavascript/59.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="558" selection-end="1068" vertical-scroll-proportion="0.0" vertical-offset="109" max-vertical-offset="697">
-          <folding />
-        </state>
+        <state line="11" column="0" selection-start="558" selection-end="1068" vertical-scroll-proportion="0.0" vertical-offset="109" max-vertical-offset="697" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ParamJavascript/60.js">
@@ -350,9 +345,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ParamJavascript/63.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="5" selection-start="1436" selection-end="1436" vertical-scroll-proportion="0.0" vertical-offset="896" max-vertical-offset="1445">
-          <folding />
-        </state>
+        <state line="73" column="5" selection-start="1436" selection-end="1436" vertical-scroll-proportion="0.0" vertical-offset="896" max-vertical-offset="1445" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ParamJavascript/62.js">
@@ -383,13 +376,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ParamJavascript/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="38" selection-start="96" selection-end="96" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ParamJavascript/67.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="23" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1377">
@@ -399,7 +385,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ParamJavascript/68.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="0" selection-start="1701" selection-end="1701" vertical-scroll-proportion="0.6368932" vertical-offset="862" max-vertical-offset="1377">
+        <state line="19" column="0" selection-start="690" selection-end="833" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1377">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParamJavascript/69.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="28" selection-start="1032" selection-end="1032" vertical-scroll-proportion="0.0" vertical-offset="233" max-vertical-offset="816">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParamJavascript/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="38" selection-start="96" selection-end="96" vertical-scroll-proportion="0.17382413" vertical-offset="0" max-vertical-offset="489">
           <folding />
         </state>
       </provider>
